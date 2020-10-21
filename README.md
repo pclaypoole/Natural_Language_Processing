@@ -51,9 +51,9 @@ Next, look at the ngrams and word frequency for each coin.
 
 Finally, generate word clouds for each coin to summarize the news for each coin.
 
-![btc-word-cloud.png](Images/btc-word-cloud.png)
+![btc_wordcloud.png](Images/btc_wordcloud.png)
 
-![eth-word-cloud.png](Images/eth-word-cloud.png)
+![eth_wordcloud.png](Images/eth_wordcloud.png)
 
 #### Named Entity Recognition
 
